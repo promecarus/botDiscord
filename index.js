@@ -1,1 +1,1 @@
-console.log("hai")
+const mySecret = process.env['TOKEN']
