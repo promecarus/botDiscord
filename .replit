@@ -1,2 +1,1 @@
-language = "undefined"
-run = "node index.js"
+run = "npm start"
